@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "image000001.jpeg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "McGill University"
   uri              : # URL
   email            : "max.gross@mail.mcgill.ca" 
 
